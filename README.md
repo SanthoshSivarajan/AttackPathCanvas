@@ -7,13 +7,11 @@
 
 ---
 
-## A Note from the Author
+## Note
 
 I started working on this as a concept and a fun project. The idea came from the data I was already collecting with [DelegationCanvas](https://github.com/SanthoshSivarajan/DelegationCanvas) and [NHICanvas](https://github.com/SanthoshSivarajan/NHICanvas) -- I wanted to see if I could visualize the attack paths hidden in that data. What began as a quick experiment turned into something much more comprehensive than I originally planned.
 
 I haven't decided whether to continue developing this or stop here. There are many possibilities -- especially if you are a developer and can take the collected data further with better visualizations, interactive graphs, or integration with other tools. I am not a developer, so this may be where I stop, but it was a fun project and I learned a lot building it.
-
-If you find this useful or want to extend it, feel free to fork it and make it your own.
 
 ---
 
@@ -21,7 +19,7 @@ If you find this useful or want to extend it, feel free to fork it and make it y
 
 AttackPathCanvas discovers and visualizes identity attack paths in your Active Directory forest. It analyzes privileged group membership chains, dangerous delegation escalation paths, Kerberos delegation abuse, DCSync capabilities, trust weaknesses, and more -- then produces an interactive HTML report with SVG attack path diagrams and step-by-step attack scenario analysis.
 
-Think of it as a lightweight, single-script alternative to BloodHound -- no database, no collector agent, no Java/Neo4j required. Just PowerShell and an HTML file.
+Think of it as a lightweight, single-script an HTML output file.
 
 ## What It Discovers
 
