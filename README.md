@@ -138,6 +138,20 @@ Automated detection of 16 attack scenario types with step-by-step exploitation p
 - **GroupPolicy module** (optional, for GPO attack path detection)
 - Domain user account (Domain Admin recommended for full visibility)
 
+## Screenshots
+
+### Executive Summary
+![Executive Summary](screenshots/screenshot-executive-summary.png)
+
+### Per-Domain Section
+![Domain Section](screenshots/screenshot-domain-section.png)
+
+### Forest-Wide Charts
+![Charts](screenshots/screenshot-charts.png)
+
+### DC Table
+![DC Table](screenshots/screenshot-dc-table.png)
+
 ## License
 
 MIT -- Free to use, modify, and distribute.
