@@ -141,16 +141,22 @@ Automated detection of 16 attack scenario types with step-by-step exploitation p
 ## Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/screenshot-executive-summary.png)
+![Executive Summary](screenshots/2.jpg)
 
-### Per-Domain Section
-![Domain Section](screenshots/screenshot-domain-section.png)
+### Section
+![Domain Section](screenshots/1.jpg)
 
-### Forest-Wide Charts
-![Charts](screenshots/screenshot-charts.png)
+### Attack Path (Direct)
+![Charts](screenshots/3.jpg)
 
-### DC Table
-![DC Table](screenshots/screenshot-dc-table.png)
+### Attack Path (Nested)
+![DC Table](screenshots/4.jpg)
+
+### Attack Scenarios
+![DC Table](screenshots/5.jpg)
+
+### Chart
+![DC Table](screenshots/6.jpg)
 
 ## License
 
