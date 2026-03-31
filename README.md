@@ -9,9 +9,9 @@
 
 ## Note
 
-I started working on this as a concept and a fun project. The idea came from the data I was already collecting with [DelegationCanvas](https://github.com/SanthoshSivarajan/DelegationCanvas) and [NHICanvas](https://github.com/SanthoshSivarajan/NHICanvas) -- I wanted to see if I could visualize the attack paths hidden in that data. What began as a quick experiment turned into something much more comprehensive than I originally planned.
+I started working on this as a concept and a fun project. The idea came from the data I was already collecting with [DelegationCanvas](https://github.com/SanthoshSivarajan/DelegationCanvas) and [NHICanvas](https://github.com/SanthoshSivarajan/NHICanvas) - I wanted to see if I could visualize the attack paths hidden in that data. What began as a quick experiment turned into something much more comprehensive than I originally planned.
 
-I haven't decided whether to continue developing this or stop here. There are many possibilities -- especially if you are a developer and can take the collected data further with better visualizations, interactive graphs, or integration with other tools. I am not a developer, so this may be where I stop, but it was a fun project and I learned a lot building it.
+I haven't decided whether to continue developing this or stop here. There are many possibilities - especially if you are a developer and can take the collected data further with better visualizations, interactive graphs, or integration with other tools. I am not a developer, so this may be where I stop, but it was a fun project and I learned a lot building it.
 
 ---
 
